@@ -17,6 +17,8 @@ rs1423.txt的结果:
 
 ![alt rs1423](./output/rs1423_1.png)
 
+[所有](./output/readme.md)
+
 ## 运行
 
 ```sh
